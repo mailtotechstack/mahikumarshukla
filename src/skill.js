@@ -32,7 +32,18 @@ const projectLink = {
     greenEnv : "https://greenenv.vercel.app/",
     resume : "https://my-resume-builder-livid.vercel.app/",
     todo : "https://todo-liart-psi.vercel.app/",
-    wanderLust : "https://mahikumarshukla.vercel.app/"
+    wanderLust : "https://mahikumarshukla.vercel.app/",
+    password: "https://passwordbymahi.vercel.app/",
+    tictactoe: "https://tictactoebymahi.vercel.app/",
+    advanceTodo: "https://todobymahi.vercel.app/",
+    sportify: "https://sportifybymahi.vercel.app/",
+    toggler : "https://card-using-context-api.vercel.app/",
+    weatherApp : "https://weather-pi-gilt.vercel.app/",
+    tweeter : "https://tweeterbymahi.vercel.app/",
+    processSteps : "https://process-steps.vercel.app/",
+    imageSlider : "https://image-slider-ecru.vercel.app/",
+    nertflix : "https://netflix-git-main-mahi-kumars-projects-abfcde5e.vercel.app/"
+
 }
 
 const gitHubLink = {
@@ -40,6 +51,16 @@ const gitHubLink = {
     wanderLust : "https://github.com/mahinewlaptop-pixel/mahikumarshukla.git",
     todo : "https://github.com/mahinewlaptop-pixel/todo.git",
     resume : "https://github.com/mahinewlaptop-pixel/my-resume-builder.git",
+    password: "https://github.com/mailtotechstack/PasswordManager",
+    tictactoe: "https://github.com/mailtotechstack/useContextBasics",
+    advanceTodo: "https://github.com/mailtotechstack/Todo",
+    sportify: "https://github.com/mailtotechstack/Sportify",
+    toggler : "https://github.com/mailtotechstack/cardUsingContextApi",
+    weatherApp : "https://github.com/mailtotechstack/weather",
+    tweeter : "https://github.com/mailtotechstack/tweeter",
+    processSteps : "https://github.com/mailtotechstack/process-steps",
+    imageSlider : "https://github.com/mailtotechstack/imageSlider",
+    nertflix : "https://github.com/mailtotechstack/netflix.git"
 }
 
 const imageLink ={
@@ -47,6 +68,16 @@ const imageLink ={
     wanderLust : "/Wanderlust.png",
     todo : "/todoProject.png",
     resume : "/ResumeProject.png",
+    password: "/password.png",
+    tictactoe: "/tictactoe.png",
+    advanceTodo: "/advanceTodo.png",
+    sportify: "/sportify.png",
+    toggler: "/toggler.png",
+    weatherApp: "/weatherApp.png",
+    tweeter: "/tweeter.png",
+    processSteps: "/processSteps.png",
+    imageSlider: "imageSlider.png",
+    nertflix: "/nertflix.png"
 }
 
 const contactDetails={
